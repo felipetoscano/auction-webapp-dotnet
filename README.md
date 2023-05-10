@@ -1,4 +1,5 @@
 # Leilão Online
+Projeto de site de um leilão online, com o objetivo de explicar os princípios SOLID.
 
 ## Explicando conceitos SOLID
 
