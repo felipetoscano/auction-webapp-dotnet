@@ -1,4 +1,6 @@
-# Explicando conceitos SOLID
+# Leilão Online
+
+## Explicando conceitos SOLID
 
 **SOLID** se trata de um conjunto de princípios de boas práticas para melhorar a qualidade do seu software e fazer com que ele permaneça sempre estável e cresça com facilidade, conforme são feitas manutenções e melhorias.
 
